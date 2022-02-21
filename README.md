@@ -1,5 +1,5 @@
 # Uniform-Modelling-Thirteen-Streams
-Additional files for paper "Uniform Modelling of the Stellar Density of Thirteen Tidal Streams" (Patrick et al. 2021)
+Additional files for paper "Uniform Modelling of the Stellar Density of Thirteen Tidal Streams within the Galactic Halo" (Patrick et al. 2022)
 
 Rotation matrices for all the streams (Table A1 in the paper) are included in rotation_matrices.fits in the Rotation Matrices folder.
 
